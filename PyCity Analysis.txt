@@ -1,0 +1,7 @@
+PyCitySchool Analysis: 
+   
+- Of the total schools, students performed at a higher percentage rate in reading than in math overall
+ -Students within charters schools performed better in both math and reading than students in district school(and schools with lower budgets allocated per student as compared to higher budgets).
+- Charter schools have less total students than district schools. 
+-Charter schools also have an higher overall rate than district schools. 
+-schools with small and medium sizes (meaning schools with less than 2000 students) have higher percentage passing rates in both math and reading than larger schools with over 2000 students.
